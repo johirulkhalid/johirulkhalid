@@ -2,7 +2,7 @@
 #### I'm a Junior Web developer
 ![I'm a Junior Web developer](https://pbs.twimg.com/profile_banners/1561756673974632449/1661187551/600x200)
 
-Love to learn new skills. Sometimes my brain doesn't work because of the OOP. Now learning PHP it's cool. Client satisfaction is my is my 1st priority
+Love to learn new skills. Sometimes my brain doesn't work because of the OOP. Now learning PHP it's cool. Client satisfaction is my  1st priority
 
 Skills: REACT/ JS/ PHP/ HTML / CSS/Bootstrap
 
